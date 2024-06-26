@@ -22,6 +22,10 @@ body,
     color: red;
 }
 .maplibregl-popup-content.mapboxgl-popup-content p {
-    font-size: 13px;
+    font-size: 14px;
     padding: 0;
+}
+.maplibregl-popup-content.mapboxgl-popup-content a {
+    color: red;
+    font-size: 13px;
 }
