@@ -12,7 +12,7 @@ function initMap1() {
             features: [{
                     type: "Feature",
                     properties: {
-                        htmlPopup: "<div style='font-family: Raleway, sans-serif;'><h3>KUN ISUZU</h3><p><strong>Address:</strong> B14, 2nd St, 2nd sector, Industrial Estate, Ambattur, Chennai, Tamil Nadu 600058</p><p><strong>Phone:</strong> +91 72994 02000</p></div>",
+                        htmlPopup: "<div><h3>KUN ISUZU</h3><p><strong>Address:</strong> B14, 2nd St, 2nd sector, Industrial Estate, Ambattur, Chennai, Tamil Nadu 600058</p><p><strong>Phone:</strong> +91 72994 02000</p><a href='https://maps.app.goo.gl/Fb66cFcvZh8oGKiR6'>Direction</a></div>",
                     },
                     geometry: {
                         type: "Point",
@@ -22,7 +22,7 @@ function initMap1() {
                 {
                     type: "Feature",
                     properties: {
-                        htmlPopup: "<div style='font-family: Raleway, sans-serif;'><h3>KUN ISUZU</h3><p><strong>Address:</strong> Sidha Steels Campus,SF521,Avinashi Road,Mudalipalayam Pirivu,Arasur, post, Coimbatore, Tamil Nadu 641407.</p><p><strong>Phone:</strong> +91 82200 46447</p></div>",
+                        htmlPopup: "<div><h3>KUN ISUZU</h3><p><strong>Address:</strong> Sidha Steels Campus,SF521,Avinashi Road,Mudalipalayam Pirivu,Arasur, post, Coimbatore, Tamil Nadu 641407.</p><p><strong>Phone:</strong> +91 82200 46447</p><a href='https://maps.app.goo.gl/VzGQswJCRiHigwLh7'>Direction</a></div>",
                     },
                     geometry: {
                         type: "Point",
@@ -32,7 +32,7 @@ function initMap1() {
                 {
                     type: "Feature",
                     properties: {
-                        htmlPopup: "<div style='font-family: Raleway, sans-serif;'><h3>AR.A.S - ISUZU</h3><p><strong>Address:</strong> 28, Service Rd, Industrial Estate, Kappalur,Madurai, Tamil Nadu 625008.</p><p><strong>Phone:</strong> +91 78670 11377</p></div>",
+                        htmlPopup: "<div><h3>AR.A.S - ISUZU</h3><p><strong>Address:</strong> 28, Service Rd, Industrial Estate, Kappalur,Madurai, Tamil Nadu 625008.</p><p><strong>Phone:</strong> +91 78670 11377</p><a href='https://maps.app.goo.gl/yNkDbZH5GuLMScNs9'>Direction</a></div>",
                     },
                     geometry: {
                         type: "Point",
@@ -42,7 +42,7 @@ function initMap1() {
                 {
                     type: "Feature",
                     properties: {
-                        htmlPopup: "<div style='font-family: Raleway, sans-serif;'><h3>Sml isuzu trichy</h3><p><strong>Address:</strong> Melapudur Main Rd, Melapudur, Sangillyandapuram, Tiruchirappalli, Tamil Nadu 620001.</p><p><strong>Phone:</strong> +91 78670 11377</p></div>",
+                        htmlPopup: "<div><h3>Sml isuzu trichy</h3><p><strong>Address:</strong> Melapudur Main Rd, Melapudur, Sangillyandapuram, Tiruchirappalli, Tamil Nadu 620001.</p><p><strong>Phone:</strong> +91 78670 11377</p><a href='https://maps.app.goo.gl/xVAsWNPG3hLZooCZA'>Direction</a></div>",
                     },
                     geometry: {
                         type: "Point",
